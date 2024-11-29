@@ -9,8 +9,8 @@ I'm a passionate software developer who loves building applications using modern
 - 😄 Pronouns: he/him
 
 ## Connect with Me:
-- Facebook: https://www.linkedin.com/in/your-linkedin](https://www.facebook.com/quocc.2004
-- Email: quocthkse183295@fpt.edu.vn
+- Facebook: https://www.facebook.com/quocc.2004
+- Email: rumble01667057271@gmail.com
 
 <!---
 quoc10973/quoc10973 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
