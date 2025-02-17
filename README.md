@@ -1,6 +1,6 @@
 # Hi, I'm Tran Huu Kien Quoc 👋
 ## 👨‍💻 About Me
-I'm a passionate software developer who loves building applications using modern technologies. I'm currently focused on backend and server-side developement and I want to be a fullstack in the future
+I'm a passionate software developer who loves building applications and websites using modern technologies. I'm currently focused on backend and server-side developement and I want to be a fullstack in the future
 
 ## 📚 Daily-life
 - 👀 I’m interested in learning, swimming, animals...
