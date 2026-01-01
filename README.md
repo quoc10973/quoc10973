@@ -12,10 +12,6 @@ I'm a passionate software developer who loves building applications and websites
 - Facebook: https://www.facebook.com/quocc.2004
 - Email: rumble01667057271@gmail.com
 
-### 🛠️ Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quoc10973&layout=compact&theme=white)
-
 
 <!---
 quoc10973/quoc10973 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
